@@ -1,2 +1,0 @@
-# relogio
- relogio-tela-cheia
